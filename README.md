@@ -1,14 +1,19 @@
-[![ align="center"](https://i.pinimg.com/originals/14/ef/cc/14efcc1ff7523326e6c168c4c0a1d871.gif)](https://github.com/404Err0rK1)
+<img align="left" alt="Coding" width="100%" height="400px" src="https://firebasestorage.googleapis.com/v0/b/storage-image-1f22f.appspot.com/o/DEEKAY-unscreen.gif?alt=media&token=b024862b-c240-49e8-9484-9d4f52555efe" />
+
 <h1 align="center">Hi 👋, I'm Ho Tuan Phat</h1>
-<h3 align="center">A passionate web developer from Vietnam</h3>
+<h3 align="center">A passionate web developer from Vietnam</h3></br>
+
 <img align="left" alt="Coding" width="400" src="https://i.pinimg.com/originals/57/e3/53/57e353468c03daab4846f3c3418f436f.gif" />
 
+
 ## 💫 About Me
-⦿ 🔭 I’m currently working on [**E-Commerce Shop**](https://github.com/404Err0rK1/Food-Tp.git)<br><br>
-⦿ 🌱 I’m currently learning **NodeJS**<br><br>
-⦿ 👨‍💻 All of my projects are available at [**404Err0rK1**](https://github.com/404Err0rK1)<br><br>
-⦿ 💬 Ask me about **React, NextJS, Angular, VueJS, [HTML, JS, CSS],...**<br><br>
-⦿ 📫 How to reach me [**My gmail**](404err0rk1@gmail.com)
+&nbsp;&nbsp;&nbsp;&nbsp;⦿ 🔭 I’m currently working on [**E-Commerce Shop**](https://github.com/404Err0rK1/Food-Tp.git)<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;⦿ 🌱 I’m currently learning **NodeJS**<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;⦿ 👨‍💻 All of my projects are available at [**404Err0rK1**](https://github.com/404Err0rK1)<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;⦿ 💬 Ask me about **React, NextJS, Angular, VueJS, [HTML, JS, CSS],...**<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;⦿ 📫 How to reach me [**My gmail**](404err0rk1@gmail.com)</br></br>
+
+![]<img align="left" alt="Coding" width="100%" height="150px" src="https://i.pinimg.com/originals/20/ee/00/20ee00448f56d10ac7297bf4b62a7f22.gif" />
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/404.Err0r.K1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ho-tuan-phat-web-developer/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@404err0rk1/) 
@@ -19,7 +24,7 @@
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=404Err0rK1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=404Err0rK1&theme=dark&hide_border=false)</br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=404Err0rK1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=404Err0rK1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ### ✍️ Random Dev Quote
