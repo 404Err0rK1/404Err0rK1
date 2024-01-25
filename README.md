@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Ho Tuan Phat</h1>
+<h3 align="center">A passionate web developer from Vietnam</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/57/e3/53/57e353468c03daab4846f3c3418f436f.gif" />
 # 💫 About Me:
 ⦿ 🔭 I’m currently working on [**E-Commerce Shop**](https://github.com/404Err0rK1/Food-Tp.git)<br><br>
 ⦿ 🌱 I’m currently learning **NodeJS**<br><br>
