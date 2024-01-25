@@ -5,7 +5,7 @@
 - 💬 Ask me about **React, NextJS, Angular, VueJS, [HTML, JS, CSS],...**<br><br>
 - 📫 How to reach me **404err0rk1@gmail.com**
 
-<img align="top right" alt="coding" width="500" src="https://i.pinimg.com/originals/49/a5/4d/49a54d1942432e529b69c70063e6768c.gif">
+<img alt="coding" width="500" src="https://i.pinimg.com/originals/49/a5/4d/49a54d1942432e529b69c70063e6768c.gif">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/404.Err0r.K1 Tuấn Phát  (Kunz)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ho-tuan-phat-web-developer Phat Tuan) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@404err0rk1 404-Err0r-K1) 
