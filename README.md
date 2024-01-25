@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1align="center">Xin chào 👋, tôi là HỒ TUẤN PHÁT</h1>
+<h3align="center">Một nhà phát triển Frontend / Fullstack đầy nhiệt huyết đến từ Việt Nam</h3>
+<img align="right" alt="coding" width="500" src="https://i.pinimg.com/originals/49/a5/4d/49a54d1942432e529b69c70063e6768c.gif">
+<palign="left"> <img src="https://komarev.com/ghpvc/?username=404-err0r-k1&label=Profile%20views&color=0e75b6&style=flat" alt="404-err0r-k1" /> </p>
 
-<!--
-**404Err0rK1/404Err0rK1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Tôi 'Tôi hiện đang làm việc trên [Cửa hàng thương mại điện tử](https://github.com/404Err0rK1/Food-Tp.git)
 
-Here are some ideas to get you started:
+- 🌱 Tôi hiện đang học **NodeJS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Tất cả các dự án của tôi đều có sẵn tại [https://github.com/404Err0rK1](https://github.com/404Err0rK1)
+
+- 💬 Hỏi tôi về **React, NextJS, Angular, VueJS, [HTML, JS, CSS],...* *
+
+- 📫 Cách liên hệ với tôi **404err0rk1@gmail.com**
+
+<h3align="left">Kết nối với tôi:</h3>
+<palign="left">
+<a href="https://linkedin .com/in/phat tuan" target="blank"><imgalign="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/ icon/Social/linked-in-alt.svg" alt="phat tuan" Height="30" width="40" /></a>
+<a href="https://fb.com/tuan phat" target="blank"><imgalign="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tuan phat" Height="30" width="40" /></a>
+</p>
+
+<h3align="left">Ngôn ngữ và công cụ:</h3>
+<palign="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos /angular/angular.svg" alt="angular" width="40" Height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer "> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-origin-wordmark.svg" alt="angularjs" width="40" Height="40" /> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/ babeljs-icon.svg" alt="babel" width="40" Height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" Height="40"/ > </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons /devicon/master/icons/css3/css3-origen-wordmark.svg" alt="css3" width="40" Height="40"/> </a> <a href="https://www.figma .com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" Height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo .zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" Height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" chiều cao="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw .githubusercontent.com/devicons/devicon/master/icons/html5/html5-origin-wordmark.svg" alt="html5" width="40" Height="40"/> </a> <a href="https ://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript- original.svg" alt="javascript" width="40" Height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" Height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ mongodb/mongodb-origin-wordmark.svg" alt="mongodb" width="40" Height="40"/> </a> <a href="https://www.mysql.com/" target=" _blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-origin-wordmark.svg" alt="mysql" width="40 " Height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo. com/logos/nextjs-2.svg" alt="nextjs" width="40" Height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel ="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-origen-wordmark.svg" alt="nodejs" width="40" Height= "40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent. com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" Height="40"/> </a> <a href="https://postman. com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" Height= "40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ devicons/devicon/master/icons/python/python-origin.svg" alt="python" width="40" Height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-origen-wordmark.svg" alt="react" width="40" Height="40"/> </ a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative " width="40" Height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https: //raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-origin.svg" alt="redux" width="40" Height="40"/> </a> <a href=" https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-origin. svg" alt="sass" width="40" Height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" Height="40"/> </a> <a href="https ://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-origin. svg" alt="typescript" width="40" Height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-origin-wordmark.svg" alt="vuejs" width="40" Height="40"/> </ a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons /webpack/webpack-origin-wordmark.svg" alt="webpack" width="40" Height="40"/> </a> <a href="https://www.adobe.com/products/xd .html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" Height="40"/> </a> </p>
+
+<p><imgalign="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=404-err0r-k1&show_icons=true&locale=en&layout=compact" alt=" 404-err0r-k1" /></p>
+
+<p> <imgalign="center" src="https://github-readme-stats.vercel.app/api?username=404-err0r-k1&show_icons =true&locale=vi" alt="404-err0r-k1" /></p>
+
+<p><imgalign="center" src="https://github-readme-streak-stats.herokuapp.com/? user=404-err0r-k1&" alt="404-err0r-k1" /></p>
