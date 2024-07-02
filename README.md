@@ -13,7 +13,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;⦿ 💬 Ask me about **React, NextJS, Angular, VueJS, [HTML, JS, CSS],...**<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;⦿ 📫 How to reach me [**My gmail**](404err0rk1@gmail.com)</br></br>
 
-<img align="left" alt="Coding" width="100%" height="150px" src="https://i.pinimg.com/originals/20/ee/00/20ee00448f56d10ac7297bf4b62a7f22.gif" />
+<img align="left" alt="Coding" width="100%" height="200px" src="https://media.giphy.com/media/1wq4Z3MvB8eGxvakbQ/giphy.gif?cid=ecf05e477bgpoouabadb0gwgdjfrnnw47lyslsf39idjeiko&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/404.Err0r.K1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ho-tuan-phat-web-developer/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@404err0rk1/) 
