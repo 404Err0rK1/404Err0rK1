@@ -1,4 +1,4 @@
-<img align="left" alt="Coding" width="100%" height="400px" src="https://firebasestorage.googleapis.com/v0/b/storage-image-1f22f.appspot.com/o/DEEKAY-unscreen.gif?alt=media&token=b024862b-c240-49e8-9484-9d4f52555efe" />
+<img align="left" alt="Coding" width="100%" height="400px" src="https://media.giphy.com/media/MCMHrLVUhsBW0ZgcAD/giphy.gif?cid=ecf05e47ad7683ozknz2hukklwhrwsmlwewyb1aqc0lwl332&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
 
 <h1 align="center">Hi 👋, I'm Ho Tuan Phat</h1>
 <h3 align="center">A passionate web developer from Vietnam</h3></br>
