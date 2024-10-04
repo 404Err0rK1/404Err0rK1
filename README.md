@@ -36,8 +36,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=404Err0rK1&radius=16&theme=github-light&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-<img align="left" height="200" src="https://i.pinimg.com/originals/86/74/90/8674905b3c57ca65503d14f79fcc3b87.gif"  />
-
 ###
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
