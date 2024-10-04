@@ -13,9 +13,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;⦿ 💬 Ask me about **React, NextJS, Angular, VueJS, [HTML, JS, CSS],...**<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;⦿ 📫 How to reach me [**My gmail**](404err0rk1@gmail.com)</br></br>
 
-<img align="left" height="200" src="https://i.pinimg.com/originals/14/ef/cc/14efcc1ff7523326e6c168c4c0a1d871.gif"  />
-<img align="left" height="200" src="https://i.pinimg.com/originals/7f/42/96/7f42961ece8c7cd16a1384ffd16812eb.gif"  />
-<img align="left" height="200" src="https://i.pinimg.com/originals/fb/a7/c7/fba7c713a78dc212c5f53aab264d2166.gif"  />
+<img align="left" height="150" src="https://i.pinimg.com/originals/14/ef/cc/14efcc1ff7523326e6c168c4c0a1d871.gif"  />
+<img align="left" height="150" src="https://i.pinimg.com/originals/7f/42/96/7f42961ece8c7cd16a1384ffd16812eb.gif"  />
+<img align="left" height="150" src="https://i.pinimg.com/originals/fb/a7/c7/fba7c713a78dc212c5f53aab264d2166.gif"  />
 
 </br></br></br></br></br></br></br></br>
 
