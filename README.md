@@ -1,7 +1,4 @@
-<img align="left" alt="Coding" width="100%" height="400px" src="https://media.giphy.com/media/MCMHrLVUhsBW0ZgcAD/giphy.gif?cid=ecf05e47ad7683ozknz2hukklwhrwsmlwewyb1aqc0lwl332&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
-
-<h1 align="center">Hi 👋, I'm Ho Tuan Phat</h1>
-<h3 align="center">A passionate web developer from Vietnam</h3></br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=500&color=00CC2D&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Ho+Tuan+Phat;A+passionate+web+developer)](https://git.io/typing-svg)
 
 <img align="left" alt="Coding" width="400" src="https://i.pinimg.com/originals/57/e3/53/57e353468c03daab4846f3c3418f436f.gif" />
 
