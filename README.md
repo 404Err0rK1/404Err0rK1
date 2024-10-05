@@ -12,7 +12,11 @@
 
 </br></br></br></br></br></br></br></br>
 
+
 ## 🌐 Socials
+
+<img align="left" height="10" width="1000" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/404.Err0r.K1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ho-tuan-phat-web-developer/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@404err0rk1/) 
 
 ## 💻 Tech Stack
