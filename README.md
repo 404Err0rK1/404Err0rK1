@@ -1,18 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=500&color=00CC2D&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Ho+Tuan+Phat;A+passionate+web+developer)](https://git.io/typing-svg)
 
-<img align="left" alt="Coding" width="400" src="https://i.pinimg.com/originals/57/e3/53/57e353468c03daab4846f3c3418f436f.gif" />
-
-
 ## 💫 About Me
-&nbsp;&nbsp;&nbsp;&nbsp;⦿ 🔭 I’m currently working on [**E-Commerce Shop**](https://github.com/404Err0rK1/Food-Tp.git)<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;⦿ 🌱 I’m currently learning **NodeJS**<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;⦿ 👨‍💻 All of my projects are available at [**404Err0rK1**](https://github.com/404Err0rK1)<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;⦿ 💬 Ask me about **React, NextJS, Angular, VueJS, [HTML, JS, CSS],...**<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;⦿ 📫 How to reach me [**My gmail**](404err0rk1@gmail.com)</br></br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=00BACC&width=800&height=30&lines=%E2%A6%BF+I+am+currently+a+freelancer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=00BACC&width=800&height=30&lines=%E2%A6%BF+The+future+goal+is+to+become+a+Fullstack+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=00BACC&width=800&height=30&lines=%E2%A6%BF+All+of+my+projects+are+available+at+404Err0rK1.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=00BACC&width=800&height=30&lines=%E2%A6%BF+Ask+me+about+NextJS%2C+React%2C+TypeScript%2C+Angular%2C+VueJS%2C+%5BHTML%2C+JS%2C+CSS%5D%2C...)](https://git.io/typing-svg)
 
-<img align="left" height="150" src="https://i.pinimg.com/originals/14/ef/cc/14efcc1ff7523326e6c168c4c0a1d871.gif"  />
-<img align="left" height="150" src="https://i.pinimg.com/originals/7f/42/96/7f42961ece8c7cd16a1384ffd16812eb.gif"  />
-<img align="left" height="150" src="https://i.pinimg.com/originals/fb/a7/c7/fba7c713a78dc212c5f53aab264d2166.gif"  />
+<img align="left" height="170" src="https://i.pinimg.com/originals/14/ef/cc/14efcc1ff7523326e6c168c4c0a1d871.gif"  />
+<img align="left" height="170" src="https://i.pinimg.com/originals/7f/42/96/7f42961ece8c7cd16a1384ffd16812eb.gif"  />
+<img align="left" height="170" src="https://i.pinimg.com/originals/fb/a7/c7/fba7c713a78dc212c5f53aab264d2166.gif"  />
 
 </br></br></br></br></br></br></br></br>
 
