@@ -6,13 +6,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=00BACC&width=800&height=30&lines=%E2%A6%BF+All+of+my+projects+are+available+at+404Err0rK1.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=00BACC&width=800&height=30&lines=%E2%A6%BF+Ask+me+about+NextJS%2C+React%2C+TypeScript%2C+Angular%2C+VueJS%2C+%5BHTML%2C+JS%2C+CSS%5D%2C...)](https://git.io/typing-svg)
 
-<img align="left" height="180" src="https://i.pinimg.com/originals/14/ef/cc/14efcc1ff7523326e6c168c4c0a1d871.gif"  />
-<img align="left" height="180" src="https://i.pinimg.com/originals/7f/42/96/7f42961ece8c7cd16a1384ffd16812eb.gif"  />
-<img align="left" height="180" src="https://i.pinimg.com/originals/fb/a7/c7/fba7c713a78dc212c5f53aab264d2166.gif"  />
-
-</br></br></br></br></br></br></br></br>
-
-
 ## 🌐 Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/404.Err0r.K1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ho-tuan-phat-web-developer/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@404err0rk1/) 
@@ -165,6 +158,13 @@
 </div>
 
 ###
+
+<img align="left" height="180" src="https://i.pinimg.com/originals/14/ef/cc/14efcc1ff7523326e6c168c4c0a1d871.gif"  />
+<img align="left" height="180" src="https://i.pinimg.com/originals/7f/42/96/7f42961ece8c7cd16a1384ffd16812eb.gif"  />
+<img align="left" height="180" src="https://i.pinimg.com/originals/fb/a7/c7/fba7c713a78dc212c5f53aab264d2166.gif"  />
+
+</br></br></br></br></br></br></br></br>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
